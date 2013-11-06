@@ -1,0 +1,1 @@
+<a href="http://www.elegantthemes.com/gallery/thecorporation/readme.html" target="_blank"><?php esc_html_e( 'Read TheCorporation Documentation', $themename ); ?></a>

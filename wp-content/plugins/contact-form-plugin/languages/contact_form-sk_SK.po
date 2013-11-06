@@ -1,0 +1,823 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: contact_form\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-11-01 11:42+0300\n"
+"PO-Revision-Date: 2013-11-01 11:42+0300\n"
+"Last-Translator: \n"
+"Language-Team: Book Ing <book.ing@zoznam.sk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs_CZ\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: contact_form.php:32
+#: contact_form.php:512
+msgid "Contact Form Settings"
+msgstr "Nastavenie kontaktného formulára"
+
+#: contact_form.php:32
+msgid "Contact Form"
+msgstr "Kontaktný formulár"
+
+#: contact_form.php:33
+msgid "Contact Form Pro Extra Settings"
+msgstr "Kontaktný formulár Pro Extra - nastavenie"
+
+#: contact_form.php:33
+#: contact_form.php:553
+#: contact_form.php:834
+msgid "Contact Form Pro"
+msgstr "Kontaktný formulár Pro"
+
+#: contact_form.php:74
+#: contact_form.php:719
+#: contact_form.php:748
+msgid "Name:"
+msgstr "Meno:"
+
+#: contact_form.php:75
+#: contact_form.php:720
+#: contact_form.php:749
+msgid "Address:"
+msgstr "Adresa::"
+
+#: contact_form.php:76
+#: contact_form.php:721
+#: contact_form.php:750
+msgid "Email Address:"
+msgstr "E-Mail:"
+
+#: contact_form.php:77
+#: contact_form.php:722
+#: contact_form.php:751
+msgid "Phone number:"
+msgstr ""
+
+#: contact_form.php:78
+#: contact_form.php:723
+#: contact_form.php:752
+msgid "Subject:"
+msgstr "Predmet:"
+
+#: contact_form.php:79
+#: contact_form.php:724
+#: contact_form.php:753
+msgid "Message:"
+msgstr "Správa:"
+
+#: contact_form.php:80
+#: contact_form.php:725
+#: contact_form.php:754
+msgid "Attachment:"
+msgstr "Príloha"
+
+#: contact_form.php:81
+#: contact_form.php:726
+#: contact_form.php:755
+msgid "Send me a copy"
+msgstr "Zaslať mi kópiu"
+
+#: contact_form.php:82
+#: contact_form.php:727
+#: contact_form.php:756
+msgid "Submit"
+msgstr "Odoslať"
+
+#: contact_form.php:83
+msgid "Your name is required."
+msgstr "Vaše meno je vyžadované."
+
+#: contact_form.php:84
+msgid "Address is required."
+msgstr "Adresa je vyžadovaná."
+
+#: contact_form.php:85
+msgid "A valid email address is required."
+msgstr "Platný E-mail je vyžadovaný."
+
+#: contact_form.php:86
+msgid "Phone number is required."
+msgstr "Telefónne číslo je vyžadované."
+
+#: contact_form.php:87
+msgid "Subject is required."
+msgstr "Predmet je vyžadovaný."
+
+#: contact_form.php:88
+msgid "Message text is required."
+msgstr "Správa je vyžadovaná."
+
+#: contact_form.php:89
+msgid "File format is not valid."
+msgstr "Nesprávny typ súboru."
+
+#: contact_form.php:90
+msgid "File upload error."
+msgstr ""
+
+#: contact_form.php:91
+msgid "The file could not be uploaded."
+msgstr ""
+
+#: contact_form.php:92
+msgid "This file is too large."
+msgstr ""
+
+#: contact_form.php:93
+msgid "Please fill out the CAPTCHA."
+msgstr "Prosím opíšte CAPTCHA text."
+
+#: contact_form.php:94
+msgid "Please make corrections below and try again."
+msgstr "Prosím opravte chyby a skúste to opäť."
+
+#: contact_form.php:96
+msgid "Thank you for contacting us."
+msgstr "Ďakujeme za správu."
+
+#: contact_form.php:188
+#, fuzzy
+msgid "requires"
+msgstr "Vyžadované polia"
+
+#: contact_form.php:188
+msgid "or higher, that is why it has been deactivated! Please upgrade WordPress and try again."
+msgstr ""
+
+#: contact_form.php:188
+msgid "Back to the WordPress"
+msgstr ""
+
+#: contact_form.php:188
+#, fuzzy
+msgid "Plugins page"
+msgstr "Pro Plugins"
+
+#: contact_form.php:468
+msgid "If the 'Redirect to page' option is selected then the URL field should be in the following format"
+msgstr "Ak je vybratá možnosť \"Presmerovanie na stránku\" potom pole URL by malo mať nasledujúci formát"
+
+#: contact_form.php:477
+msgid "Such user does not exist. Settings are not saved."
+msgstr "Taký užívateľ neexistuje. Nastavenie sa neuloží."
+
+#: contact_form.php:481
+#: contact_form.php:487
+msgid "Please enter a valid email address in the 'FROM' field. Settings are not saved."
+msgstr "Zadajte platnú e-mailovú adresu v poli \"Od\". Nastavenie sa neuloží."
+
+#: contact_form.php:492
+msgid "Settings saved."
+msgstr "Nastavenie uložené."
+
+#: contact_form.php:516
+#: contact_form.php:828
+#: contact_form.php:1657
+#: contact_form.php:1668
+msgid "Settings"
+msgstr "Nastavenia"
+
+#: contact_form.php:517
+#: contact_form.php:829
+msgid "Extra settings"
+msgstr "Extra nastavenia"
+
+#: contact_form.php:522
+#: contact_form.php:1085
+msgid "If you would like to add the Contact Form to your website, just copy and paste this shortcode to your post or page or widget:"
+msgstr "Ak by ste chceli pridať kontaktný formulár na svoje webové stránky, stačí skopírovať a vložiť shortcode k príspevku, stránke alebo widgetu:"
+
+#: contact_form.php:522
+#: contact_form.php:523
+#: contact_form.php:741
+#: contact_form.php:789
+msgid "or"
+msgstr "alebo"
+
+#: contact_form.php:523
+msgid "If have any problems with the standard shortcode [contact_form], you should use the shortcode"
+msgstr "Ak máte nejaké problémy so štandardným shortcode [contact_form], mali by ste použiť shortcode"
+
+#: contact_form.php:524
+msgid "They work the same way."
+msgstr "Fungujú rovnakým spôsobom."
+
+#: contact_form.php:525
+msgid "If you leave the fields empty, the messages will be sent to the email address specified during registration."
+msgstr "Ak necháte pole prázdne, budú správy posielané na e-mailovú adresu zadanú pri registrácii."
+
+#: contact_form.php:529
+msgid "The user's email address:"
+msgstr "Užívateľova e-mailová adresa:"
+
+#: contact_form.php:533
+msgid "Create a username"
+msgstr "Vytvorte užívateľské meno"
+
+#: contact_form.php:538
+msgid "Enter a username of the person who should get the messages from the contact form."
+msgstr "Zadajte užívateľské meno osoby, ktorá by mala dostať správy z kontaktného formulára."
+
+#: contact_form.php:542
+msgid "Use this email address:"
+msgstr "Použíte tento email::"
+
+#: contact_form.php:545
+msgid "Enter the email address you want the messages forwarded to."
+msgstr "Zadajte e-mailovú adresu, ktorú chcete do správy presmerovať."
+
+#: contact_form.php:549
+msgid "Add department selectbox to the contact form:"
+msgstr ""
+
+#: contact_form.php:552
+#: contact_form.php:833
+msgid "This functionality is available in the Pro version of the plugin. For more details, please follow the link"
+msgstr ""
+
+#: contact_form.php:560
+msgid "Save emails to the database"
+msgstr ""
+
+#: contact_form.php:568
+#: contact_form.php:571
+#: contact_form.php:575
+msgid "Using Contact Form to DB powered by"
+msgstr ""
+
+#: contact_form.php:571
+#, fuzzy
+msgid "Activate Contact Form to DB"
+msgstr "Kontaktný formulár Pro"
+
+#: contact_form.php:575
+#, fuzzy
+msgid "Download Contact Form to DB"
+msgstr "Kontaktný formulár Pro"
+
+#: contact_form.php:580
+msgid "Additional options"
+msgstr "Ďalšie nastavenia"
+
+#: contact_form.php:583
+msgid "What to use?"
+msgstr "Čo používať?"
+
+#: contact_form.php:586
+msgid "Wp-mail"
+msgstr "Wp-mail"
+
+#: contact_form.php:586
+msgid "You can use the wp_mail function for mailing"
+msgstr "Môžete použiť wp_mail funkcie pre zasielanie"
+
+#: contact_form.php:588
+msgid "Mail"
+msgstr "Mail"
+
+#: contact_form.php:588
+msgid "To send mail you can use the php mail function"
+msgstr "Ak chcete odosielať poštu, môžete použiť e-mailoé PHP funkcie"
+
+#: contact_form.php:592
+#, fuzzy
+msgid "The text in the 'From' field"
+msgstr "Zmena textu pola \"od\""
+
+#: contact_form.php:594
+msgid "User name"
+msgstr ""
+
+#: contact_form.php:595
+msgid "The name of the user who fills the form will be used in the field 'From'."
+msgstr ""
+
+#: contact_form.php:600
+#, fuzzy
+msgid "This text will be used in the 'FROM' field"
+msgstr "Táto e-mailová adresa bude použitá v poli 'od'."
+
+#: contact_form.php:604
+#, fuzzy
+msgid "The email address in the 'From' field"
+msgstr "Zadajte e-mailovú adresu v poli \"od\""
+
+#: contact_form.php:606
+msgid "User email"
+msgstr ""
+
+#: contact_form.php:607
+msgid "The email address of the user who fills the form will be used in the field 'From'."
+msgstr ""
+
+#: contact_form.php:609
+msgid "This email address will be used in the 'From' field."
+msgstr "Táto e-mailová adresa bude použitá v poli 'od'."
+
+#: contact_form.php:613
+msgid "Display fields"
+msgstr "Zobraz polia"
+
+#: contact_form.php:615
+#: contact_form.php:665
+#: contact_form.php:865
+#: contact_form.php:1525
+msgid "Address"
+msgstr "Adresa"
+
+#: contact_form.php:616
+#: contact_form.php:667
+#: contact_form.php:1533
+msgid "Phone"
+msgstr "Telefón"
+
+#: contact_form.php:617
+msgid "Attachment block"
+msgstr "Blok príloh"
+
+#: contact_form.php:617
+msgid "Users can attach the following file formats"
+msgstr "Užívatelia môžu pripojiť nasledujúce formáty súborov"
+
+#: contact_form.php:626
+#: contact_form.php:629
+#: contact_form.php:633
+#: contact_form.php:894
+msgid "Captcha"
+msgstr ""
+
+#: contact_form.php:626
+#: contact_form.php:629
+#: contact_form.php:633
+msgid "powered by"
+msgstr ""
+
+#: contact_form.php:629
+msgid "Activate captcha"
+msgstr "Aktivovať captcha"
+
+#: contact_form.php:633
+msgid "Download captcha"
+msgstr "Stiahnuť captcha"
+
+#: contact_form.php:638
+msgid "Display tips below the Attachment block"
+msgstr "Zobrazenie tipov pod blokom príloh"
+
+#: contact_form.php:647
+msgid "Delete an attachment file from the server after the email is sent"
+msgstr ""
+
+#: contact_form.php:653
+msgid "Display 'Send me a copy' block"
+msgstr "Zobraz 'Zaslať kópiu' blok"
+
+#: contact_form.php:662
+msgid "Required fields"
+msgstr "Vyžadované polia"
+
+#: contact_form.php:664
+#: contact_form.php:860
+#: contact_form.php:1520
+msgid "Name"
+msgstr "Meno"
+
+#: contact_form.php:666
+msgid "Email Address"
+msgstr "Emailová adresa"
+
+#: contact_form.php:668
+#: contact_form.php:880
+#: contact_form.php:1536
+msgid "Subject"
+msgstr "Predmet"
+
+#: contact_form.php:669
+#: contact_form.php:884
+#: contact_form.php:1539
+msgid "Message"
+msgstr "Správa"
+
+#: contact_form.php:673
+msgid "Display the asterisk near required fields"
+msgstr ""
+
+#: contact_form.php:679
+msgid "Display additional info in the email"
+msgstr "Zobraziť ďalšie informácie v e-maile"
+
+#: contact_form.php:684
+#: contact_form.php:1492
+msgid "Sent from (ip address)"
+msgstr "Odoslané z (ip adresa)"
+
+#: contact_form.php:684
+#, fuzzy
+msgid "Example: Sent from (IP address):\t127.0.0.1"
+msgstr "Odoslané z (ip adresa)"
+
+#: contact_form.php:685
+#: contact_form.php:1497
+msgid "Date/Time"
+msgstr "Datum / Čas"
+
+#: contact_form.php:685
+msgid "Example: Date/Time:\tAugust 19, 2013 8:50 pm"
+msgstr ""
+
+#: contact_form.php:686
+#: contact_form.php:1502
+msgid "Sent from (referer)"
+msgstr "Odoslané z"
+
+#: contact_form.php:686
+msgid "Example: Sent from (referer):\thttp://bestwebsoft.com/contacts/contact-us/"
+msgstr ""
+
+#: contact_form.php:687
+#: contact_form.php:1507
+msgid "Using (user agent)"
+msgstr "Použitie (user agent)"
+
+#: contact_form.php:687
+msgid "Example: Using (user agent):\tMozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 Safari/537.36"
+msgstr ""
+
+#: contact_form.php:691
+msgid "Language settings for the field names in the form"
+msgstr "Nastavenie jazyka pre názvy polí vo formulári"
+
+#: contact_form.php:700
+msgid "Add a language"
+msgstr "Pridať jazyk"
+
+#: contact_form.php:704
+msgid "Change the names of the contact form fields and error messages"
+msgstr "Zmena názvov polí kontaktného formulára a chybových hlásení"
+
+#: contact_form.php:709
+#: contact_form.php:780
+msgid "English"
+msgstr ""
+
+#: contact_form.php:728
+#: contact_form.php:757
+msgid "Error message for the Name field"
+msgstr ""
+
+#: contact_form.php:729
+#: contact_form.php:758
+msgid "Error message for the Address field"
+msgstr ""
+
+#: contact_form.php:730
+#: contact_form.php:759
+msgid "Error message for the Email field"
+msgstr ""
+
+#: contact_form.php:731
+#: contact_form.php:760
+msgid "Error message for the Phone field"
+msgstr ""
+
+#: contact_form.php:732
+#: contact_form.php:761
+msgid "Error message for the Subject field"
+msgstr ""
+
+#: contact_form.php:733
+#: contact_form.php:762
+msgid "Error message for the Message field"
+msgstr ""
+
+#: contact_form.php:734
+#: contact_form.php:763
+msgid "Error message about the file type for the Attachment field"
+msgstr ""
+
+#: contact_form.php:735
+#: contact_form.php:764
+msgid "Error message while uploading a file for the Attachment field to the server"
+msgstr ""
+
+#: contact_form.php:736
+#: contact_form.php:765
+msgid "Error message while moving the file for the Attachment field"
+msgstr ""
+
+#: contact_form.php:737
+#: contact_form.php:766
+msgid "Error message when file size limit for the Attachment field is exceeded"
+msgstr ""
+
+#: contact_form.php:738
+#: contact_form.php:767
+msgid "Error message for the Captcha field"
+msgstr ""
+
+#: contact_form.php:739
+#: contact_form.php:768
+msgid "Error message for the whole form"
+msgstr ""
+
+#: contact_form.php:741
+#: contact_form.php:770
+#: contact_form.php:789
+#: contact_form.php:795
+msgid "Use shortcode"
+msgstr "Použite shortcode "
+
+#: contact_form.php:741
+#: contact_form.php:770
+#: contact_form.php:789
+#: contact_form.php:795
+msgid "for this language"
+msgstr "pre tento jazyk"
+
+#: contact_form.php:777
+msgid "Action after email is sent"
+msgstr "Akcia po zaslaní mailu."
+
+#: contact_form.php:779
+msgid "Display text"
+msgstr "Zobraziť text"
+
+#: contact_form.php:788
+#: contact_form.php:794
+msgid "Text"
+msgstr "Text"
+
+#: contact_form.php:802
+msgid "Redirect to the page"
+msgstr "Presmerovať na stránku"
+
+#: contact_form.php:803
+msgid "Url"
+msgstr "Url"
+
+#: contact_form.php:809
+#: contact_form.php:986
+msgid "Save Changes"
+msgstr "Uložiť zmeny"
+
+#: contact_form.php:826
+msgid "Contact Form Pro | Extra Settings"
+msgstr "Kontaktný formulár | Extra nastavenie"
+
+#: contact_form.php:840
+msgid "Errors output"
+msgstr ""
+
+#: contact_form.php:843
+msgid "Display error messages"
+msgstr ""
+
+#: contact_form.php:844
+msgid "Color of the input field errors."
+msgstr ""
+
+#: contact_form.php:845
+msgid "Display error messages & color of the input field errors"
+msgstr ""
+
+#: contact_form.php:850
+msgid "Add placeholder to the input blocks"
+msgstr ""
+
+#: contact_form.php:856
+msgid "Add tooltips"
+msgstr "Pridať popisky"
+
+#: contact_form.php:870
+msgid "Email address"
+msgstr "Emailová adresa"
+
+#: contact_form.php:875
+msgid "Phone Number"
+msgstr "Tel. číslo"
+
+#: contact_form.php:889
+msgid "Attachment"
+msgstr "Príloha"
+
+#: contact_form.php:894
+msgid "(powered by bestwebsoft.com)"
+msgstr ""
+
+#: contact_form.php:899
+msgid "Style options"
+msgstr "Nastavenie štýlu"
+
+#: contact_form.php:902
+msgid "Text color"
+msgstr ""
+
+#: contact_form.php:905
+#: contact_form.php:910
+#: contact_form.php:920
+#: contact_form.php:925
+#: contact_form.php:930
+#: contact_form.php:935
+#: contact_form.php:945
+#: contact_form.php:950
+#: contact_form.php:956
+#: contact_form.php:967
+#: contact_form.php:972
+#: contact_form.php:977
+msgid "Default"
+msgstr ""
+
+#: contact_form.php:907
+msgid "Label text color"
+msgstr ""
+
+#: contact_form.php:912
+msgid "Placeholder color"
+msgstr ""
+
+#: contact_form.php:917
+msgid "Errors color"
+msgstr ""
+
+#: contact_form.php:922
+msgid "Error text color"
+msgstr ""
+
+#: contact_form.php:927
+msgid "Background color of the input field errors"
+msgstr ""
+
+#: contact_form.php:932
+msgid "Border color of the input field errors"
+msgstr ""
+
+#: contact_form.php:937
+msgid "Placeholder color of the input field errors"
+msgstr ""
+
+#: contact_form.php:942
+msgid "Input fields"
+msgstr "Vložiť polia"
+
+#: contact_form.php:947
+msgid "Input fields background color"
+msgstr ""
+
+#: contact_form.php:952
+msgid "Text fields color"
+msgstr ""
+
+#: contact_form.php:954
+msgid "Border width in px, numbers only"
+msgstr ""
+
+#: contact_form.php:958
+#: contact_form.php:979
+msgid "Border color"
+msgstr ""
+
+#: contact_form.php:963
+msgid "Submit button"
+msgstr "Odoslať"
+
+#: contact_form.php:965
+msgid "Width in px, numbers only"
+msgstr ""
+
+#: contact_form.php:969
+msgid "Button color"
+msgstr ""
+
+#: contact_form.php:974
+msgid "Button text color"
+msgstr ""
+
+#: contact_form.php:990
+msgid "Contact Form Pro | Preview"
+msgstr "Kontaktný formulár Pro | Zobrazenie"
+
+#: contact_form.php:993
+msgid "Show with errors"
+msgstr ""
+
+#: contact_form.php:1001
+#: contact_form.php:1003
+msgid "Please enter your full name..."
+msgstr ""
+
+#: contact_form.php:1014
+#: contact_form.php:1016
+msgid "Please enter your address..."
+msgstr ""
+
+#: contact_form.php:1025
+#: contact_form.php:1027
+msgid "Please enter your email address..."
+msgstr "Prosím zadajte vašu e-mailovú adresu..."
+
+#: contact_form.php:1036
+#: contact_form.php:1038
+msgid "Please enter your phone number..."
+msgstr ""
+
+#: contact_form.php:1047
+#: contact_form.php:1049
+msgid "Please enter subject..."
+msgstr ""
+
+#: contact_form.php:1057
+#: contact_form.php:1059
+msgid "Please enter your message..."
+msgstr ""
+
+#: contact_form.php:1070
+msgid "Supported file types: HTML, TXT, CSS, GIF, PNG, JPEG, JPG, TIFF, BMP, AI, EPS, PS, RTF, PDF, DOC, DOCX, XLS, ZIP, RAR, WAV, MP3, PPT. Max file size: 2MB"
+msgstr ""
+
+#: contact_form.php:1137
+msgid "Sorry, email message could not be delivered."
+msgstr "Prepáčte, správa nemohla byť doručená."
+
+#: contact_form.php:1221
+msgid "You can attach the following file formats"
+msgstr "Môžete pripojiť nasledujúce formáty súborov"
+
+#: contact_form.php:1515
+msgid "Contact from"
+msgstr "Kontaktný formulár"
+
+#: contact_form.php:1528
+msgid "Email"
+msgstr "E-Mail"
+
+#: contact_form.php:1542
+msgid "Site"
+msgstr "Stránka"
+
+#: contact_form.php:1605
+msgid "If you can see this MIME, it means that the MIME type is not supported by your email client!"
+msgstr "Ak vidíte túto MIME, znamená to, že MIME typ nie je podporovaný vyším e-mailovým klientom!"
+
+#: contact_form.php:1669
+msgid "FAQ"
+msgstr "FAQ"
+
+#: contact_form.php:1670
+msgid "Support"
+msgstr "Podpora"
+
+#: contact_form.php:1727
+msgid "Are you sure that you want to delete this language data?"
+msgstr ""
+
+#~ msgid "Memory usage"
+#~ msgstr "Využitie pamäte"
+#~ msgid "Site URL"
+#~ msgstr "Stránka URL"
+#~ msgid "Please enter a valid email address."
+#~ msgstr "Zadajte platnú emailovú adresu."
+#~ msgid "Activated plugins"
+#~ msgstr "Aktivované pluginy"
+#~ msgid "Read more"
+#~ msgstr "Čítať viac"
+#~ msgid "Installed plugins"
+#~ msgstr "Inštalované pluginy"
+#~ msgid "Recommended plugins"
+#~ msgstr "Doporučované pluginy"
+#~ msgid "Free plugins"
+#~ msgstr "Voľné pluginy"
+#~ msgid "Download"
+#~ msgstr "Stiahnuť"
+#~ msgid "Install %s"
+#~ msgstr "Inštalovaniee %s"
+#~ msgid "Install now from wordpress.org"
+#~ msgstr "Inštaluje teraz z wordpress.org"
+#~ msgid "If you have any questions, please contact us via"
+#~ msgstr "Ak máte akékoľvek otázky kontaktujte nás prostredníctvom"
+#~ msgid "Active Plugins"
+#~ msgstr "Aktivované pluginy"
+#~ msgid "Inactive Plugins"
+#~ msgstr "Neaktívne pluginy"
+#~ msgid "Send to support"
+#~ msgstr "Odoslať na podporu"
+#~ msgid "Contact Form Options"
+#~ msgstr "Nastavení kontaktního formuláře"
+#~ msgid "Display Attachment tips"
+#~ msgstr "Zobrazit vysvětlivky k příloze."
+#~ msgid "Please enter a valid email address. Settings are not saved."
+#~ msgstr "Vložte správný mail. Nastavení neuloženo."
+
+#, fuzzy
+#~ msgid "E-Mail Address"
+#~ msgstr "E-Mail:"
+#~ msgid "E-Mail Addresse:"
+#~ msgstr "Indirizzo e-mail:"
+#~ msgid "Install Now"
+#~ msgstr "Installa Ora"
+

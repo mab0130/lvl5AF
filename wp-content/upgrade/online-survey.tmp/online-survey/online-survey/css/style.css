@@ -1,0 +1,7 @@
+#questionList strong{ margin:0 10px 0 0;}
+#questionList .info{ display:none}
+#questionList .regular-text{ width:100%}
+#questionList input[type=radio]{ margin-left:10px}
+#questionList .delete,
+#questionList .close{ float:right; color:red; cursor:pointer; text-decoration:underline}
+#addQuestion{ color:green; font-weight:bold}
